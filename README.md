@@ -29,7 +29,7 @@ bluente-translate-api/
 Copy the skill folder into your personal skills directory (all projects):
 
 ```bash
-git clone https://github.com/<your-org>/bluente-api-skill.git
+git clone https://github.com/Bluente/bluente-api-skill.git
 mkdir -p ~/.claude/skills
 cp -r bluente-api-skill/bluente-translate-api ~/.claude/skills/
 ```
